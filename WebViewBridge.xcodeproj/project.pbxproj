@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		4519A403120E81CD00B808F8 /* mootools-1.2.4-core-nc.js in Resources */ = {isa = PBXBuildFile; fileRef = 4519A402120E81CD00B808F8 /* mootools-1.2.4-core-nc.js */; };
 		453E0F66120E68330080FA1B /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 453E0F64120E68330080FA1B /* index.html */; };
-		453E0F67120E68330080FA1B /* json2.js in Resources */ = {isa = PBXBuildFile; fileRef = 453E0F65120E68330080FA1B /* json2.js */; };
 		45669E8A120E87FE00D7D0C9 /* scriptobject.js in Resources */ = {isa = PBXBuildFile; fileRef = 45669E89120E87FE00D7D0C9 /* scriptobject.js */; };
 		45669EA8120E8D1000D7D0C9 /* PLBlocks in Frameworks */ = {isa = PBXBuildFile; fileRef = 45669EA7120E8D1000D7D0C9 /* PLBlocks */; };
 		45B32A98120E5BCB00D81050 /* CDataScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 45B32A2D120E5BCA00D81050 /* CDataScanner.m */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		4519A402120E81CD00B808F8 /* mootools-1.2.4-core-nc.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "mootools-1.2.4-core-nc.js"; sourceTree = "<group>"; };
 		453E0F64120E68330080FA1B /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		453E0F65120E68330080FA1B /* json2.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = json2.js; sourceTree = "<group>"; };
 		45669E89120E87FE00D7D0C9 /* scriptobject.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; lineEnding = 0; path = scriptobject.js; sourceTree = "<group>"; };
 		45669EA7120E8D1000D7D0C9 /* PLBlocks */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = PLBlocks; path = PLBlocks.framework/Versions/A/PLBlocks; sourceTree = "<group>"; };
 		45B32A2C120E5BCA00D81050 /* CDataScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDataScanner.h; sourceTree = "<group>"; };
@@ -99,7 +97,6 @@
 				453E0F64120E68330080FA1B /* index.html */,
 				4519A402120E81CD00B808F8 /* mootools-1.2.4-core-nc.js */,
 				45669E89120E87FE00D7D0C9 /* scriptobject.js */,
-				453E0F65120E68330080FA1B /* json2.js */,
 			);
 			path = HTML;
 			sourceTree = "<group>";
@@ -283,7 +280,6 @@
 				453E0F66120E68330080FA1B /* index.html in Resources */,
 				4519A403120E81CD00B808F8 /* mootools-1.2.4-core-nc.js in Resources */,
 				45669E8A120E87FE00D7D0C9 /* scriptobject.js in Resources */,
-				453E0F67120E68330080FA1B /* json2.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

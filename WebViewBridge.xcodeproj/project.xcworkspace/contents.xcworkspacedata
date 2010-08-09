@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace>
+   <FileRef
+      location = "self:WebViewBridge.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:../PLBlocks.framework"
+      name = "PLBlocks.framework">
+      <FileRef
+         location = "container:../PLBlocks.framework/Headers">
+      </FileRef>
+      <FileRef
+         location = "container:../PLBlocks.framework/PLBlocks">
+      </FileRef>
+      <FileRef
+         location = "container:../PLBlocks.framework/Resources">
+      </FileRef>
+      <Group
+         location = "container:../PLBlocks.framework/Versions"
+         name = "Versions">
+         <Group
+            location = "container:../PLBlocks.framework/Versions/A"
+            name = "A">
+            <Group
+               location = "container:../PLBlocks.framework/Versions/A/Headers"
+               name = "Headers">
+               <FileRef
+                  location = "container:../PLBlocks.framework/Versions/A/Headers/Block.h">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "container:../PLBlocks.framework/Versions/A/PLBlocks">
+            </FileRef>
+            <Group
+               location = "container:../PLBlocks.framework/Versions/A/Resources"
+               name = "Resources">
+               <FileRef
+                  location = "container:../PLBlocks.framework/Versions/A/Resources/Info.plist">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "container:../PLBlocks.framework/Versions/Current">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
